@@ -16,6 +16,8 @@ Github é uma plataforma que hospeda um sistema de controle de versão.
 
 Alteração de agora 31/10
 
+Apagar depois 
+
 
 
 
