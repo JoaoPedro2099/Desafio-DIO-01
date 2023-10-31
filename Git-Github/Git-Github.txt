@@ -1,3 +1,7 @@
 #Resumo Git-Github
 
 Observações e Comandos:
+
+--
+cd .git comando para ver se o diretorio é Git
+--
