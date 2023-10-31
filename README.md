@@ -12,3 +12,7 @@ Github é uma plataforma que hospeda um sistema de controle de versão.
 
 ## Alguns comando do Git 
 
+# [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+
+
+
