@@ -14,9 +14,8 @@ Github é uma plataforma que hospeda um sistema de controle de versão.
 
 # [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
-Alteração de agora 31/10
+Alteração de agora 03/11
 
-Apagar depois 
 
 
 
